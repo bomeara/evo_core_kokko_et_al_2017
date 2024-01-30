@@ -1,0 +1,100 @@
+---
+title: "Kokko et al. 2017"
+author: "Brian O'Meara"
+format:
+  revealjs:
+    theme: dark
+    incremental: true
+editor: visual
+bibliography: references.bib
+---
+
+## Learning objectives
+
+-   Understand selection surfaces
+
+-   Understand how populations can respond to selection
+
+-   Communicate how selective surfaces matter
+
+-   Verbally describe breeder's equation
+
+-   Connect evolution and ecology
+
+## Contour maps
+
+![](images/cadescove.png){fig-alt="Detail of topographic map of Cades Cove, Tennessee" fig-align="center"}
+
+## Optimality surface
+
+![Figure 2 [@kokko2017]](images/fig2.png){alt="Figure 2 from Kokko et al. 2017" fig-alt="Fitness contours and variation, Figure 2 from Kokko et al. 2017"}
+
+## Breeder's equation
+
+$$
+∆X = \mu_{i+1}-\mu_i = h^2S
+$$
+
+-   What is $h$?
+
+-   What is $S$?
+
+-   How does each matter?
+
+-   Is $h$ constant through time?
+
+-   Is $S$ constant through time?
+
+## Chasing peaks
+
+![Figure 1 [@kokko2017]](images/fig1.png){fig-alt="Figure 1 from Kokko et al. 2017 showing speed of movement versus optimum"}
+
+## 
+
+## Supply and demand
+
+![A "hot toy in 2010": Mattel's Monster High dolls (I'm hoping some students are in the targeted age groups when these came out)](images/MonsterHigh.jpg){fig-alt="Picture of Monster High dolls from 2010" fig-align="center"}
+
+Supplied, hoping there would be demand
+
+## Supply and demand
+
+!["Carbon capture" cartoon, from https://www.greenrecruitmentcompany.com/blog/2021/11/seizing-the-moment-why-carbon-capture-is-so-important-for-cop26](images/CarbonCapture .jpeg){fig-alt="Image of a factory spewing carbon, magic windmills taking it away to store, and clean air coming out"}
+
+Demand, hoping there will be a supply of tools to do this
+
+## Supply and demand
+
+How does evolution work for this?
+
+-   What's the supply?
+
+-   What's the demand?
+
+-   Does supply arise to fit demand?
+
+-   Does supply affect demand?
+
+## Cheaters never prosper?
+
+"If the harshness of the environment increases, the predicted response depends on seed dispersal: if dispersal distances are short, plants are selected to increase their investment in traits that maintain local facilitation; if long, the profitability of maintaining recolonizable neighbouring sites drops and **'cheater'** types can exploit the system until its collapse, leading to a desert void of plants even though evolution of stronger facilitation would have allowed a population to deal with the new level of aridity"
+
+Explain/discuss/argue with
+
+## Questions
+
+-   How do past bottlenecks affect selection potential?
+
+-   Is niche modification eco-evolutionary feedback?
+
+-   How might selection affect speciation?
+
+-   Does evolution have foresight?
+
+-   Why do large populations accumulate more neutral genetic variation and small populations accumulate more deleterious mutations?
+
+-   What is bet-hedging?
+
+-   Cryptic genetic variation. What?
+
+## Citations
